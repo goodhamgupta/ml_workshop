@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amueller/introduction_to_ml_with_python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goodhamgupta/ml_workshop/master)
 
 # Introduction to Machine Learning with Python
 
@@ -81,3 +81,7 @@ You can submit fixed to the code as pull-requests here, but I'd appreciate it if
 "master notebooks".
 
 ![cover](cover.jpg)
+
+## Credits
+
+Many thanks to Andres Mueller for his work and the book. Majority of the code present here can be found in his repository [here](https://github.com/amueller/introduction_to_ml_with_python).
