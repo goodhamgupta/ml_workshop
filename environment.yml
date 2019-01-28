@@ -5,6 +5,7 @@ dependencies:
   - scikit-learn
   - matplotlib
   - pandas
+  - seaborn
   - pillow
   - graphviz
   - python-graphviz
